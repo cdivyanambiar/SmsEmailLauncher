@@ -7,7 +7,7 @@ def send_msg(message, numbers):
 	payload = "sender_id=FSTSMS&message="+str(message)+"&language=english&route=p&numbers="+str(numbers)
 	print(payload)
 	headers = {
-	'authorization': "JOdf8UW057jeRcypXuINZl9sBGazYMCqEHKVQwrnSD6FbT2L3gfGDqh0E5FyzU3HjtbCenA6J8r27msB",
+	'authorization': "rPasEqxwnmJiLY5cz2MeH79ObulyZWNDo16hAKkU4Q0jgF3BIR8V5JryfcKhF7ZBNLXjp10U9kQtiOCI",
 	'Content-Type': "application/x-www-form-urlencoded",
 	'Cache-Control': "no-cache",
 	}

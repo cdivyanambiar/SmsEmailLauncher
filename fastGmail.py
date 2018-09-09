@@ -35,8 +35,8 @@ def send_email(user, pwd, recipient, subject, body):
 				print ("failed to send mail")
 	
 def main(argv):
-	user = '11ramlaxman@gmail.com'
-	pwd = '11ramlaxman@#'
+	user = 'cdivyanambiar@gmail.com'
+	pwd = '2007mvpmvp'
 	recipient = ''
 	subject = ''
 	body = ''
